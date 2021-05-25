@@ -33,7 +33,7 @@
     "@vue/babel-preset-jsx": "^1.1.0",
     "babel-eslint": "^10.0.3",
     "babel-loader": "^8.0.6",
-    "browserslist": "^4.7.0",
+    "browserslist": "^4.16.5",
     "css-loader": "^3.2.0",
     "eslint": "^6.5.1",
     "eslint-config-airbnb-base": "^14.0.0",
